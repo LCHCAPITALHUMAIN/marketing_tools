@@ -25,6 +25,8 @@
 .Spotlight-V100
 .Trashes
 *.Rproj
+*.RData
+*.Rhistory
 
 # Repo specific #
 ######################
